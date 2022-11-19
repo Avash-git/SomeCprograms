@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\avash\\OneDrive\\Desktop\\Python"
+		},
+		{
+			"path": "..\\..\\Banking"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\VS Project\\C program"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#1e3456",
+			"activityBar.activeBorder": "#a53a64",
+			"activityBar.background": "#1e3456",
+			"activityBar.foreground": "#e7e7e7",
+			"activityBar.inactiveForeground": "#e7e7e799",
+			"activityBarBadge.background": "#a53a64",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"sash.hoverBorder": "#1e3456",
+			"statusBar.background": "#111d30",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#1e3456",
+			"statusBarItem.remoteBackground": "#111d30",
+			"statusBarItem.remoteForeground": "#e7e7e7",
+			"titleBar.activeBackground": "#111d30",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveBackground": "#111d3099",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"peacock.color": "#111d30"
+	}
+}
